@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  font-family: sans-serif;
+}
+.nav-title {
+  color: #151414;
+  font-size: 65px;
+  font-style: normal;
+  font-weight: 700;
+  width: 520px;
+  margin-bottom: 30px;
+}
+.nav-description {
+  color: #444443;
+  font-size: 16px;
+  width: 490;
+  margin: 30px;
+}
+.btn-primary {
+  font-size: 20px;
+  padding: 20px;
+  background-color: orangered;
+  border-radius: 5px;
+}
+.nav-subtitle {
+  text-align: right;
+  margin-top: 216px;
+  margin-right: 230px;
+  margin-left: 845px;
+  margin-bottom: 340px;
+}
+.head {
+  width: 1600px;
+  height: 880px;
+  background-image: url(/images/banner/banner1.png);
+  padding-top: 20px;
+  padding-right: 20px;
+}
+.banner-title {
+  width: 288px;
+  font-size: 40px;
+  font-weight: 700;
+  color: #151414;
+  margin: 25px;
+}
+.banner-description {
+  color: #444443;
+  font-size: 16px;
+  width: 416px;
+  margin: 18px;
+}
+.banner-subtitle {
+  color: #444443;
+  font-size: 14px;
+}
+.banner {
+  margin-left: 350px;
+  margin-top: 500px;
+  margin-right: 322px;
+}
+
+.picture {
+  width: 450px;
+  height: 500px;
+  margin-left: 150px;
+  margin-top: 130px;
+  margin-right: 0px;
+  border-radius: 300px;
+  background: rgba(241, 91, 34, 0.2);
+}
+.blog {
+  display: flex;
+  margin-bottom: 200px;
+}
+.skill-subtitle{
+    color:  #151414;
+font-size: 40px;
+font-weight: 700;
+text-align: center;
+margin-bottom: 50px;
+}
+.skills-container{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 10px;
+}
+.skill-title{color: #151414;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.skill-description{
+    color:  #737272;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 200px;
+}
+
+.section-subtitle{
+ color: #af4f4f;
+ width: 460px;
+ font-size: 40px;
+ font-weight: 700;
+}
+.btn-second{
+ width: 70px;
+height: 50px;
+border-radius: 10px;
+color: rgb(197, 126, 34);}
