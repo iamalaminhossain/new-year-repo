@@ -29,6 +29,7 @@
   margin-left: 845px;
   margin-bottom: 340px;
 }
+
 .head {
   width: 1600px;
   height: 880px;
@@ -72,6 +73,7 @@
   display: flex;
   margin-bottom: 200px;
 }
+
 .skill-subtitle {
   color: #151414;
   font-size: 40px;
@@ -98,7 +100,9 @@
   font-weight: 500;
   margin-bottom: 200px;
 }
-
+ .lucky{
+  margin-left: 350px;
+ }
 .section-subtitle {
   color: #af4f4f;
   width: 460px;
@@ -114,14 +118,14 @@
   color: rgb(197, 126, 34);
   margin-left: 64px;
 }
-.section-title {
-  background-image: url(/images/gradient2.png);
+
+.section-title{
+  background-image: url(/images/watch.png);
   background-repeat: no-repeat;
-  width: 1100px;
-  height: 300px;
-  margin-left: 300px;
-  margin-bottom: 200px;
-  border-radius: 8px;
+}
+#navy{
+  position: relative;
+  bottom: 220px;
 }
 .form {
   display: flex;
